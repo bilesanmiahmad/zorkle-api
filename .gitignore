@@ -1,0 +1,7 @@
+venv/
+zorkle_backend/__pycache__/
+accounts/__pycache__/
+inventory/__pycache__/
+.env
+accounts/migrations/__pycache__/
+inventory/migrations/__pycache__/
